@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Miss You</string>
+    <string name="facebook_app_id">2724277907801645</string>
+    <string name="fb_login_protocol_scheme">fb2724277907801645</string>
+
+    <string name="token_store_key">tokenStoreKey</string>
+
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="or">OR</string>
+    <string name="log_in_with_google">Log in with Google</string>
+    <string name="next">Next</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="back">Back</string>
+    
+    /-- ошибки 
+    <string name="invalid_mail_or_password">Invalid mail or password!</string>
+    <string name="network_error">Network error!</string>
+    <string name="failed_to_login_with_google">Failed to login with Google!</string>
+    <string name="failed_to_login_with_facebook">Failed to login with Facebook!</string>
+    <string name="failed_to_login">Failed to login!</string>
+    <string name="default_invitation_message">[TODO: default message]</string>
+    <string name="default_name">[TODO: default name]</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+</resources>
